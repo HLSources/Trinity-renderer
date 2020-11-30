@@ -1,0 +1,33 @@
+I've got some word that some guy named Uncle Misha claims I
+use HLFX code in my mirror rendering class. Let me just say
+this out loud: No.
+I don't use HLFX code because I'm not fond of HLFX, it's v-
+ery slow and I just don't rely on others' code unless it's
+totally necessary. Also second, if I already wrote most of
+this code entirely by myself, why do you think I'd mess ar-
+ound with others' works if I can write it up all myself? I
+don't need the HLFX mirror code to write something this si-
+mple up after writing most of Trinity solely by myself. The
+thing is, it's all original work. HLFX and it's team are s-
+imply renowned for being overly too proud of their work and
+their arrogance. Pay no attention.
+
+Second thing: Xash. I know a lot of people complained about
+all sorts of bugs they had with Trinity when it's used und-
+er Xash. Well the thing is I don't care about Xash and I w-
+on't, I only care how Trinity performs under GoldSrc. Xash
+is a buggy lego programming work and I don't support it be-
+ing used with Trinity. Stick to GoldSrc, Trinity works per-
+fectly with it.
+
+Third thing. I hear that some rather oblivious people are h-
+aving problems when running Trinity under Geforce 5 graphics
+cards. Well the thing is, Geforce 5 is total garbage, and I
+think you should have your parents buy you an actual graphi-
+cs card. Believe me, I used one of those and tested Trinity
+on it. It just doesn't work. Geforce 5 hates shaders and I'm
+not going to bother programming for a faulty graphics card
+series that's also old. Even Valve can verify for you that
+it's junk.
+
+Trinity Management.
